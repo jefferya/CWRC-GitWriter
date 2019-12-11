@@ -2,7 +2,7 @@
 
 FROM node
 
-WORKDIR /apps
+WORKDIR /apps/CWRC-GitWriter
 
 COPY . .
 
